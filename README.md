@@ -118,6 +118,7 @@ captura 10: 1. Crea el volumen:
 
   ![alt text](mariana10.png)
 - **Captura 24:** Logs mostrando comunicación exitosa.
+    ![alt text](mariana11.png)
 - **Captura 25:** Frontend funcionando.
 
 - **Captura 26:** Solicitud del frontend hacia el backend.
