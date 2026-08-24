@@ -107,6 +107,9 @@ captura 10: 1. Crea el volumen:
   
 - **Captura 21:** Configuración de conexión.
 
+  ![alt text](mariana8.png)
+
+
 - **Captura 22:** Operación de lectura.
 
 - **Captura 23:** Operación de escritura.
