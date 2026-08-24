@@ -98,6 +98,8 @@ captura 10: 1. Crea el volumen:
 
 - **Captura 19:** Base de datos creada.
 
+![alt text](mariana6.png)
+
 - **Captura 20:** Volumen asociado a la base de datos.
 - **Captura 21:** Configuración de conexión.
 
