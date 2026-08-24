@@ -116,6 +116,7 @@ captura 10: 1. Crea el volumen:
 
 - **Captura 23:** Operación de escritura.
 
+  ![alt text](mariana10.png)
 - **Captura 24:** Logs mostrando comunicación exitosa.
 - **Captura 25:** Frontend funcionando.
 
