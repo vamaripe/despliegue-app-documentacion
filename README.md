@@ -80,6 +80,7 @@ captura 10: 1. Crea el volumen:
 
 - **Captura 15:** Dockerfile del backend.
 ![alt text](mariana.png)
+![alt text](mariana2.png)
 
 - **Captura 16:** Imagen del backend.
 
