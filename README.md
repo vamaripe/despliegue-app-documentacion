@@ -112,6 +112,8 @@ captura 10: 1. Crea el volumen:
 
 - **Captura 22:** Operación de lectura.
 
+  ![alt text](mariana9.png)
+
 - **Captura 23:** Operación de escritura.
 
 - **Captura 24:** Logs mostrando comunicación exitosa.
