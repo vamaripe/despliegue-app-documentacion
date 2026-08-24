@@ -126,6 +126,7 @@ captura 10: 1. Crea el volumen:
 - **Captura 27:** Respuesta recibida desde el backend.
 - **Captura 28:** Aplicación completa funcionando.
 - **Captura 29:** Archivo Docker Compose.
+- ![alt text](mariana12.png)
 
 - **Captura 30:** Todos los servicios funcionando.
 - **Captura 31:** Servicios detenidos.
