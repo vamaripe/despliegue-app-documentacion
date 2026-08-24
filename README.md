@@ -50,6 +50,7 @@
 ![alt text](sadjfhaikdshaksdsa.webp)
 
 - **Captura 10:** Volumen creado.
+- 
 captura 10: 1. Crea el volumen:
 
 ![alt text](image.png)
@@ -61,11 +62,13 @@ captura 10: 1. Crea el volumen:
 
 ![alt text](image-2.png)
 
-- despues elimino las prubas que se crearon 
+despues elimino las prubas que se crearon 
+
 ![alt text](image-3.png)
 
 - **Captura 12:** Dockerfile del frontend.
-- se muestra el docker file 
+- 
+se muestra el docker file 
 ![alt text](image-5.png)
 ![alt text](image-6.png)
 - se contruye la imagen
