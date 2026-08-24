@@ -89,6 +89,7 @@ captura 10: 1. Crea el volumen:
 - **Captura 17:** Backend funcionando.
   
 ![alt text](mariana3.png)
+![alt text](mariana4.png)
 
 - **Captura 18:** Contenedor de base de datos funcionando.
 
