@@ -123,8 +123,19 @@ captura 10: 1. Crea el volumen:
     ![alt text](mariana12.png)
 - **Captura 26:** Solicitud del frontend hacia el backend.
 
+> Se registran los datos en el frond
+<img width="1138" height="787" alt="image" src="https://github.com/user-attachments/assets/231f5b29-ab49-497c-a00b-b82a888bce30" />
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/068e7fbb-8632-4c0f-80bc-db7734f96003" />
+
+
+
 - **Captura 27:** Respuesta recibida desde el backend.
+> Se muestra login de ¿l usuario 
+<img width="1317" height="667" alt="image" src="https://github.com/user-attachments/assets/89840b6e-8a6c-4841-bbd2-fc48f1bb66a7" />
+
 - **Captura 28:** Aplicación completa funcionando.
+<img width="1702" height="897" alt="image" src="https://github.com/user-attachments/assets/c5673712-87c3-4f63-b932-f181768e4d49" />
+
 - **Captura 29:** Archivo Docker Compose.
 - ![alt text](mariana13.png)
 
