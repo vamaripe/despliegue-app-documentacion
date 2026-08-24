@@ -74,7 +74,7 @@ captura 10: 1. Crea el volumen:
 ![alt text](image-8.png)
 
 - **Captura 14:** Frontend funcionando dentro del contenedor.
-- 
+
 ![alt text](image-9.png)
 ![alt text](image-10.png)
 
