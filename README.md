@@ -79,12 +79,17 @@ captura 10: 1. Crea el volumen:
 ![alt text](image-10.png)
 
 - **Captura 15:** Dockerfile del backend.
+- 
 ![alt text](mariana.png)
-![alt text](mariana2.png)
 
 - **Captura 16:** Imagen del backend.
+  
+![alt text](mariana2.png)
 
 - **Captura 17:** Backend funcionando.
+  
+![alt text](mariana3.png)
+
 - **Captura 18:** Contenedor de base de datos funcionando.
 
 - **Captura 19:** Base de datos creada.
