@@ -129,11 +129,21 @@ captura 10: 1. Crea el volumen:
 - ![alt text](mariana13.png)
 
 - **Captura 30:** Todos los servicios funcionando.
+<img width="1917" height="356" alt="image" src="https://github.com/user-attachments/assets/b7f7c85d-6c20-4b56-add6-1fda2d6d58e8" />
+
 - **Captura 31:** Servicios detenidos.
+<img width="1917" height="370" alt="image" src="https://github.com/user-attachments/assets/f2b82005-558c-413b-8ec6-302f6b8ba5f0" />
 
 - **Captura 32:** Servicios recuperados.
+<img width="1917" height="467" alt="image" src="https://github.com/user-attachments/assets/577b5144-99fd-4dfd-8b0a-317301e9d68f" />
+
 
 - **Captura 33:** Servicios reconstruidos.
+<img width="1865" height="990" alt="image" src="https://github.com/user-attachments/assets/00a2ede0-586b-4853-85bc-e3e1007cb1ab" />
+
 - **Captura 34:** Aplicación funcionando desde el equipo anfitrión.
+<img width="1817" height="1011" alt="image" src="https://github.com/user-attachments/assets/32a2478e-c813-4768-bd69-c4b96d5bb818" />
+
+
 
 **Captura 35:** Aplicación funcionando desde otro equipo de la intranet.
