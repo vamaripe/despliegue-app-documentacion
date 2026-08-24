@@ -147,3 +147,5 @@ captura 10: 1. Crea el volumen:
 
 
 **Captura 35:** Aplicación funcionando desde otro equipo de la intranet.
+<img width="474" height="1600" alt="image" src="https://github.com/user-attachments/assets/4aa2f729-7f44-4d15-bcbd-41c253f11393" />
+
